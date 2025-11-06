@@ -17,7 +17,7 @@ Follow these steps to clone, configure, and deploy the contracts.
 First, clone this repository to your local machine and navigate into the project directory.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/hihenluo/hardhat.git
 cd your-repo-name
 ```
 
